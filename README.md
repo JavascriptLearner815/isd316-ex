@@ -1,2 +1,2 @@
 # isd316-ex
-https://isd316.com: The extension.
+https://isd316.org: The extension.
